@@ -1,2 +1,2 @@
-# Cyber-Portal
+# Cyber Portal
 A Portal with Everything Cyber
